@@ -1,0 +1,33 @@
+---
+title: "J. Guitián"
+
+output: html_document
+---
+
+__Postdoctoral Researcher__ 
+ 
+ __[GEOMA Group](https://geoma.net/?lang=en){target="_blank"} __
+ 
+ __[Centro de Investigacións Mariñas (CIM-UVIGO)](https://cim.uvigo.gal/en/){target="_blank"}__
+ 
+ __[Universidade de Vigo](https://www.uvigo.gal/en){target="_blank"}__
+ 
+
+
+
+
+•	[1] **Guitián, J.**, Fuertes, M. Á., Flores, J.-A., Hernández-Almeida, I., and Stoll, H. (2022). “Variation in calcification of Reticulofenestra coccoliths over the Oligocene-Early Miocene”. Biogeosciences Discuss. [preprint], https://doi.org/10.5194/bg-2022-66.  In review.
+
+•	[2] **Guitián, J.** and Stoll, H. (2021) “Evolution of Sea Surface Temperature in the Southern Mid-latitudes from Late Oligocene through Early Miocene” Paleoceanography and Paleoclimatology. e2020PA004199. https://doi.org/10.1029/2020PA004199
+
+•	[3] González‐Lanchas, A., Hernández‐Alméida, I., Flores, J. A., Sierro, F. J., **Guitián, J.**, & Stoll, H. M. (2021). “Carbon isotopic fractionation of alkenones and Gephyrocapsa coccoliths over the Late Quaternary (Marine Isotope Stages 12 to 9) glacial‐interglacial cycles at the western tropical Atlantic”. Paleoceanography and Paleoclimatology, e2020PA004175. https://doi.org/10.1029/2020PA004175
+
+•	[4] **Guitián, J.**, Dunkley Jones, T., Hernández-Almeida, I., Loffel, T., & Stoll, H. M. (2020) “Adaptations of coccolithophore size to selective pressures during the Oligocene - early Miocene high CO2 world”. Paleoceanography and Paleoclimatology. 35: e2020PA003918. https://doi.org/10.1029/2020PA003918
+
+•	[5] Tanner, T., Hernández‐Almeida, I., Drury, A.J.,**Guitián, J.** and Stoll, H. (2020). “Decreasing Atmospheric CO2 During the Late Miocene Cooling”. Paleoceanography and Paleoclimatology, 35: e2020PA003925. https://doi.org/10.1029/2020PA003925
+
+•	[6] **Guitián, J.**, Phelps, S., Polissar, P. J., Ausin, B., Eglinton, T. I., & Stoll, H. M. (2019). “Mid‐latitude temperature variations in the Oligocene to Early Miocene”. Paleoceanography and Paleoclimatology. https://doi.org/10.1029/2019PA003638
+
+•	[7] Stoll, H.M., **Guitián, J.**, Hernández-Almeida, I., Mejia, L.M., Phelps, S., Polissar, P., Rosenthal, Y., Zhang, H., Ziveri, P. (2019). “Upregulation of phytoplankton carbon concentrating mechanisms during low CO2 glacial periods and implications for the phytoplankton pCO2 proxy”. Quaternary Sciences Reviews. Volume 208, Pages 1-20, ISSN 0277-3791, https://doi.org/10.1016/j.quascirev.2019.01.012
+
+•	[8] González-Lemos, S.,**Guitián, J.**, Fuertes, M.-Á., Flores, J.-A., and Stoll, H. M. (2018). “Technical note: An empirical method for absolute calibration of coccolith thickness”. Biogeosciences, 15, 1079-1091, https://doi.org/10.5194/bg-15-1079-2018 
