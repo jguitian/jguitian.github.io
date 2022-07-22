@@ -1,8 +1,4 @@
----
-title: "Publications"
 
-
----
 ## Publications
 
 •	**Guitián, J.**, Fuertes, M. Á., Flores, J.-A., Hernández-Almeida, I., and Stoll, H. (2022). [Variation in calcification of Reticulofenestra coccoliths over the Oligocene-Early Miocene](https://doi.org/10.5194/bg-2022-66) Biogeosciences Discuss. [preprint], In review.
