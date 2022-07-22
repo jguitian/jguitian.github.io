@@ -1,2 +1,11 @@
 theme: jekyll-theme-slate
 title: J. Guitian
+
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - about.md
+  - index.md
+  - publications.md
+
