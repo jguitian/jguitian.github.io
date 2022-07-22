@@ -1,7 +1,6 @@
 ---
 title: "J. Guitián"
 
-output: html_document
 ---
 
 __Postdoctoral Researcher__ 
