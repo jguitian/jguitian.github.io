@@ -1,7 +1,4 @@
----
-title: "About"
-output: html_document
----
+# About
 
 
 Appointments 
