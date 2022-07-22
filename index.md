@@ -12,8 +12,9 @@ __Postdoctoral Researcher__
  __[Universidade de Vigo](https://www.uvigo.gal/en)__
  
 
-[About](/about.md)
-[Publications](/publications.md)
+* [About](./about.md)
+
+* [Publications](./publications.md)
 
 
 
