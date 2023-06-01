@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Postdoctoral Researcher <a href='https://cim.uvigo.gal/en/'>Centro de Investigacións Mariñas (CIM-UVIGO)</a>. 
 
 profile:
   align: right
