@@ -1,35 +1,10 @@
 
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD Earth Sciences
-      institution: ETH Zurich, Switzerland
-      year: 2020
-      description:
-        Carbon dioxide reconstructions and coccolithophore adaptation for the Oligocene-Miocene time interval
-  
-    - title:  MSc Oceanography
-      institution: University of Vigo, Spain
-      year: 2014 - 2015
-      description:
-        Carbon dioxide reconstructions and coccolithophore adaptation for the Oligocene-Miocene time interval
-    
-    - title:  BSc Gegology
-      institution: University of Salamanca, Spain
-      year: 2009 - 2014
-      description:
-        4rd year BSc Geology at University of Edinburgh, UK
-  
-
-
-
-
 - title: Experience
   type: time_table
   contents:
     - title: Postdoc Position
-      institution: Centro de Investigacións Mariñas (CIM-UVIGO), University of Vigo
+      institution:  <a href='https://cim.uvigo.gal/en/'>Centro de Investigacións Mariñas (CIM-UVIGO)</a>, University of Vigo
       year: 2022 - Present
     
     - title: Researcher
@@ -46,3 +21,24 @@
       year: 2015 - 2016
       description:
 
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD Earth Sciences
+      institution: ETH Zurich, Switzerland
+      year: 2020
+      description:
+        Carbon dioxide reconstructions and coccolithophore adaptation for the Oligocene-Miocene time interval
+  
+    - title:  MSc Oceanography
+      institution: University of Vigo, Spain
+      year: 2014 - 2015
+      description:
+
+    - title:  BSc Gegology
+      institution: University of Salamanca, Spain
+      year: 2009 - 2014
+      description:
+        4rd year BSc Geology at University of Edinburgh, UK
+  
