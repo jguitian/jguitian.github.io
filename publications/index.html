@@ -124,7 +124,7 @@
 <li>
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr"><abbr class="badge">Preprint</abbr></div>
+        <div class="col-sm-2 abbr"></div>
 
         <!-- Entry bib key -->
         <div id="cp-2023-29" class="col-sm-8">
@@ -134,7 +134,20 @@
         <div class="author">
         
 
-        </div>
+        H. M. Stoll, L. D. Pena, I. Hernandez-Almeida, and
+          <span class="more-authors" title="click to view 3 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '3 more authors' ? 'J. Guitian, T. Tanner, H. Paelike' : '3 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">3 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
