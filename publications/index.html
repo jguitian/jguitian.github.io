@@ -186,7 +186,20 @@
         <div class="author">
         
 
-        </div>
+        LM. Mejía, S. Bernasconi, H. Zhang, and
+          <span class="more-authors" title="click to view 6 more authors" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '6 more authors' ? 'J. Guitian, A. Fernandez, I. Hernandez-Almeida, M. Jaggi, N. Haghipour, H. M. Stoll' : '6 more authors';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">6 more authors</span>
+</div>
 
         <!-- Journal/Book title and date -->
         
