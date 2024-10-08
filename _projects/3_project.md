@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Xunta de Galicia Postdoctoral Fellowship ED481B-2023-036
+title:  Postdoctoral Fellowship 
 description: Hydrodynamic and morphosedimentary characterization of intertidal shellfish banks. Knowledge for a sustainable evolution
 img: assets/img/lombos.jpg
 importance: 3
@@ -14,6 +14,6 @@ category: work
     </div>
 </div>
 <div class="caption">
-    
+    Xunta de Galicia - ED481B-2023-036
 </div>
 
