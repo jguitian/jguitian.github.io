@@ -14,7 +14,7 @@ category: work
     </div>
 </div>
 <div class="caption">
-   The TransformAr project, funded by the European Union’s Horizon H2020 innovation action programme, aims to accelerate transformational adaptation in vulnerable regions across Europe
+   The TransformAr project, funded by the European Union’s Horizon H2020 innovation action programme, aims to accelerate transformational adaptation in vulnerable regions across Europe.
 
 Within the GEOMA Research group from the University of Vigo, we implement an intertidal monitoring to improve the knowledge on sandbanks response under climate change.
 </div>
