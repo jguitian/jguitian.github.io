@@ -1,8 +1,8 @@
 ---
 layout: page
 title: TransformAr
-description:Accelerating and upscaling transformational adaptation in Europe
-img: assets/img/TransformAr_logo_PNG.png
+description: Accelerating and upscaling transformational adaptation in Europe
+img: assets/img/TransformAr_logo_PNG.jpg
 importance: 1
 category: work
 ---
