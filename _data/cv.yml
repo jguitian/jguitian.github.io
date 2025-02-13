@@ -46,3 +46,27 @@
       description:
         4rd year BSc Geology at University of Edinburgh, UK
   
+- title: Other
+  type: time_table
+  contents:
+    - title: UMR CNRS 5805 EPOC, Université de Bordeaux, France
+      institution: Visiting researcher
+      year: 2024
+      description:
+        
+    - title:  Lamont-Doherty Earth Observatory, Columbia University, USA
+      institution: Visiting researcher
+      year: 2016
+      description:
+
+    - title:  University of Birmingham
+      institution: Visiting researcher
+      year: 2016
+      description:
+        
+    - title:  University of Edinburgh, UK
+      institution: Erasmus,  4rd year BSc Geology 
+      year: 2013
+      description:
+       
+  
